@@ -1,5 +1,12 @@
 [
   {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\malve\\\\Desktop\\\\Atividade\\\\Projeto1\\\\Projeto-Integrador-2\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "_name": "_3b0c3460"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\malve\\\\Desktop\\\\Atividade\\\\Projeto1\\\\Projeto-Integrador-2\\\\pages\\\\index.vue",
