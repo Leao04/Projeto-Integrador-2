@@ -2,15 +2,13 @@
   {
     "name": "home",
     "path": "/home",
-    "component": "C:\\\\Users\\\\malve\\\\Desktop\\\\Atividade\\\\Projeto1\\\\Projeto-Integrador-2\\\\pages\\\\home.vue",
-    "chunkName": "pages/home",
-    "_name": "_3b0c3460"
+    "component": "C:\\\\Users\\\\lordv\\\\OneDrive\\\\Documentos\\\\GitHub\\\\Projeto-Integrador-2\\\\pages\\\\home.vue",
+    "chunkName": "pages/home"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\malve\\\\Desktop\\\\Atividade\\\\Projeto1\\\\Projeto-Integrador-2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_7ab79b21"
+    "component": "C:\\\\Users\\\\lordv\\\\OneDrive\\\\Documentos\\\\GitHub\\\\Projeto-Integrador-2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
